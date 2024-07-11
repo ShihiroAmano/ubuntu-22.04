@@ -1,0 +1,45 @@
+氏名　　　　　　　：　天野　志洋
+アカウント名　　　： s242603
+ECCSメールアドレス： amano-shihiro496@g.ecc.u-tokyo.ac.jp
+
+1. ls -l /var/log/*.log > log-files.txt
+
+2. ls c c++ fortran python 2> error.txt
+
+3. ls -l /usr/bin | less
+
+4. ls -l /usr/bin | grep fortran
+
+5. システム設定の変更や、プログラムのインストールや削除、ユーザを作成・削除することができる、利用に制限がない特別なユーザ。
+
+6. suでユーザをrootに切り替えることなく、root権限が必要な設定やプログラムを実行出来るコマンド。
+
+7. 所有者はroot、グループはroot。
+
+8. sudo chown codespace testdir
+
+9. sudo chgrp codespace testdir
+
+10. chmod u-w testdir
+
+11. chmod u+x unix/hello.sh
+
+12. ctrl+Z 
+
+13. bg
+
+14. bash unix/sleep.sh &
+
+15. jobs
+
+16. kill -9 123456
+
+17. i
+
+18. esc
+
+19. :q!
+
+20. :wq
+
+21. 資料の説明が不十分であるように感じた。

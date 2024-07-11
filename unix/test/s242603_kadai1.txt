@@ -1,0 +1,34 @@
+氏名　　　　　　　： 天野　志洋
+アカウント名　　　： s242603
+ECCSメールアドレス：　amano-shihiro496@g.ecc.u-tokyo.ac.jp
+
+1. Linus Torvalds
+
+2. ls /etc/
+
+3. ls -a
+
+4. cp /etc/hosts hosts.copy
+
+5. mv hosts.copy hosts.move
+
+6. rm hosts.move
+
+7. ホームディレクトリの名前
+
+8. rm -r fuga
+   mkdir hoge
+   
+9. ホームディレクトリ
+
+10. /usr/bin
+
+11. ホームディレクトリ内のファイル.profileの内容を確認している
+
+12. less ~/.bashrc
+
+13. find /usr/ -name gfortran
+
+14. which python
+
+15. 説明が非常に丁寧であったため、コンピューターに詳しくない自分でもついていくことができ、安心した。
